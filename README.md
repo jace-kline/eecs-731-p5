@@ -11,3 +11,4 @@
 7. Commit your notebook, source code, visualizations and other supporting files to the git repository in GitHub
 
 ## Summary
+In this project we focused on building models for time series forecasting for particular products. After extensive feature engineering and data exploration, we chose three products from the original dataset to utilize in our time series models. We decided to use the ARMA and Hidden Markov models to fit our data. We concluded that the Hidden Markov model was a better fit for the chosen datasets. See the full report [here.](./notebooks/forecast.md)
